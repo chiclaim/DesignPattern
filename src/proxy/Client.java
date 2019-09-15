@@ -1,6 +1,6 @@
 package proxy;
 
-// 小贩
+// 客户
 public class Client {
 
     public void registerCompany(){
